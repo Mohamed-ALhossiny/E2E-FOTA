@@ -1,0 +1,6 @@
+../Core/Src/main.c:51:5:main	24	static
+../Core/Src/main.c:85:6:RCC_Setup	8	static
+../Core/Src/main.c:95:6:Interrupt_Setup	8	static
+../Core/Src/main.c:109:6:GPIO_Setup	80	static
+../Core/Src/main.c:138:6:UART_Setup	104	static
+../Core/Src/main.c:166:6:CAN_Setup	40	static

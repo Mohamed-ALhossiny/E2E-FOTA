@@ -1,0 +1,9 @@
+../Core/Src/CAN.c:16:6:CAN_Config	16	static
+../Core/Src/CAN.c:88:6:CAN_Testmode	16	static
+../Core/Src/CAN.c:99:6:CAN_Normal	16	static
+../Core/Src/CAN.c:112:6:CAN_Transmit	24	static
+../Core/Src/CAN.c:164:10:CAN_GetRxId	24	static
+../Core/Src/CAN.c:180:6:CAN_Receive	32	static
+../Core/Src/CAN.c:253:6:CAN_Interrupt_Enable	24	static
+../Core/Src/CAN.c:271:9:CAN_GetLastErrorCodeType	24	static
+../Core/Src/CAN.c:279:6:CAN_ConfigFilter	24	static

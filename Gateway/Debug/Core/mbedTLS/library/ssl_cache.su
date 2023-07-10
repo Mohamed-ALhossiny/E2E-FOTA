@@ -1,0 +1,10 @@
+../Core/mbedTLS/library/ssl_cache.c:36:6:mbedtls_ssl_cache_init	16	static
+../Core/mbedTLS/library/ssl_cache.c:49:12:ssl_cache_find_entry	40	static
+../Core/mbedTLS/library/ssl_cache.c:86:5:mbedtls_ssl_cache_get	40	static
+../Core/mbedTLS/library/ssl_cache.c:126:13:ssl_cache_entry_zeroize	16	static
+../Core/mbedTLS/library/ssl_cache.c:143:12:ssl_cache_pick_writing_slot	56	static
+../Core/mbedTLS/library/ssl_cache.c:259:5:mbedtls_ssl_cache_set	48	static
+../Core/mbedTLS/library/ssl_cache.c:335:5:mbedtls_ssl_cache_remove	40	static
+../Core/mbedTLS/library/ssl_cache.c:385:6:mbedtls_ssl_cache_set_timeout	16	static
+../Core/mbedTLS/library/ssl_cache.c:395:6:mbedtls_ssl_cache_set_max_entries	16	static
+../Core/mbedTLS/library/ssl_cache.c:404:6:mbedtls_ssl_cache_free	24	static

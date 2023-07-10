@@ -1,0 +1,4 @@
+../Core/Src/bspatch.c:54:1:offtin	24	static
+../Core/Src/bspatch.c:73:1:bspatch_valid_header	32	static
+../Core/Src/bspatch.c:92:1:bspatch_newsize	16	static
+../Core/Src/bspatch.c:99:1:bspatch	72	static

@@ -1,0 +1,6 @@
+../Core/Src/TIM.c:12:6:TIM_Base_SetConfig	16	static
+../Core/Src/TIM.c:27:6:TIM_ConfigClockSource	16	static
+../Core/Src/TIM.c:124:6:TIM_MasterConfigSynchronization	24	static
+../Core/Src/TIM.c:132:6:TIM_Base_Start	16	static
+../Core/Src/TIM.c:137:10:TIM_GetCounter	16	static
+../Core/Src/TIM.c:140:6:TIM_SetCounter	16	static

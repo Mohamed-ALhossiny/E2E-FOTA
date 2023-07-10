@@ -1,0 +1,10 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/mbedtls/error.h:154:19:mbedtls_error_add	24	static
+../Core/mbedTLS/library/x509_csr.c:54:12:x509_csr_get_version	32	static
+../Core/mbedTLS/library/x509_csr.c:75:12:x509_csr_parse_extensions	56	static
+../Core/mbedTLS/library/x509_csr.c:170:12:x509_csr_parse_attributes	56	static
+../Core/mbedTLS/library/x509_csr.c:234:5:mbedtls_x509_csr_parse_der	72	static
+../Core/mbedTLS/library/x509_csr.c:401:5:mbedtls_x509_csr_parse	64	static
+../Core/mbedTLS/library/x509_csr.c:451:5:mbedtls_x509_csr_parse_file	32	static
+../Core/mbedTLS/library/x509_csr.c:476:5:mbedtls_x509_csr_info	72	static
+../Core/mbedTLS/library/x509_csr.c:557:6:mbedtls_x509_csr_init	16	static
+../Core/mbedTLS/library/x509_csr.c:565:6:mbedtls_x509_csr_free	16	static

@@ -1,0 +1,13 @@
+../Core/Src/NVIC.c:16:6:Enable_irq	4	static,ignoring_inline_asm
+../Core/Src/NVIC.c:27:6:Disable_irq	4	static,ignoring_inline_asm
+../Core/Src/NVIC.c:39:6:NVIC_EnableIRQ	16	static
+../Core/Src/NVIC.c:54:10:NVIC_GetEnableIRQ	16	static
+../Core/Src/NVIC.c:66:6:NVIC_DisableIRQ	16	static
+../Core/Src/NVIC.c:80:10:NVIC_GetPendingIRQ	16	static
+../Core/Src/NVIC.c:92:6:NVIC_SetPendingIRQ	16	static
+../Core/Src/NVIC.c:104:6:NVIC_ClearPendingIRQ	16	static
+../Core/Src/NVIC.c:118:10:NVIC_GetActive	16	static
+../Core/Src/NVIC.c:133:6:NVIC_SetPriority	16	static
+../Core/Src/NVIC.c:148:10:NVIC_GetPriority	16	static
+../Core/Src/NVIC.c:165:10:NVIC_EncodePriority	40	static
+../Core/Src/NVIC.c:192:6:NVIC_DecodePriority	40	static

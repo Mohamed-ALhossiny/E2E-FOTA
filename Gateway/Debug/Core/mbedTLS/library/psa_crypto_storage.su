@@ -1,0 +1,12 @@
+../Core/mbedTLS/library/psa_crypto_storage.c:52:26:psa_its_identifier_of_slot	24	static
+../Core/mbedTLS/library/psa_crypto_storage.c:88:21:psa_crypto_storage_load	56	static
+../Core/mbedTLS/library/psa_crypto_storage.c:109:5:psa_is_key_present_in_storage	40	static
+../Core/mbedTLS/library/psa_crypto_storage.c:140:21:psa_crypto_storage_store	56	static
+../Core/mbedTLS/library/psa_crypto_storage.c:178:14:psa_destroy_persistent_key	40	static
+../Core/mbedTLS/library/psa_crypto_storage.c:213:21:psa_crypto_storage_get_data_length	40	static
+../Core/mbedTLS/library/psa_crypto_storage.c:248:6:psa_format_key_data_for_storage	32	static
+../Core/mbedTLS/library/psa_crypto_storage.c:269:21:check_magic_header	16	static
+../Core/mbedTLS/library/psa_crypto_storage.c:278:14:psa_parse_key_data_from_storage	40	static
+../Core/mbedTLS/library/psa_crypto_storage.c:329:14:psa_save_persistent_key	40	static
+../Core/mbedTLS/library/psa_crypto_storage.c:363:6:psa_free_persistent_key_data	16	static
+../Core/mbedTLS/library/psa_crypto_storage.c:371:14:psa_load_persistent_key	48	static

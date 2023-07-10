@@ -1,0 +1,4 @@
+../Core/mbedTLS/library/timing.c:98:15:mbedtls_timing_get_timer	48	static
+../Core/mbedTLS/library/timing.c:120:6:mbedtls_timing_set_delay	32	static
+../Core/mbedTLS/library/timing.c:135:5:mbedtls_timing_get_delay	24	static
+../Core/mbedTLS/library/timing.c:160:10:mbedtls_timing_get_final_delay	16	static

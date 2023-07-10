@@ -1,0 +1,2 @@
+../Core/SEGGER/SEGGER_SYSVIEW_embOS.c:58:13:_cbSendTaskInfo	40	static
+../Core/SEGGER/SEGGER_SYSVIEW_embOS.c:85:13:_cbSendTaskList	16	static

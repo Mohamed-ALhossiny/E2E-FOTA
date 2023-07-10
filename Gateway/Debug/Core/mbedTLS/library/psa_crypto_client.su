@@ -1,0 +1,3 @@
+../Core/mbedTLS/library/psa_crypto_client.c:29:6:psa_reset_key_attributes	16	static
+../Core/mbedTLS/library/psa_crypto_client.c:35:14:psa_set_key_domain_parameters	32	static
+../Core/mbedTLS/library/psa_crypto_client.c:64:14:psa_get_key_domain_parameters	24	static

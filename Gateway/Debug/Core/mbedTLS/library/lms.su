@@ -1,0 +1,8 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/psa/crypto_struct.h:89:43:psa_hash_operation_init	248	static
+../Core/mbedTLS/library/lms.c:99:12:create_merkle_leaf_value	504	static
+../Core/mbedTLS/library/lms.c:172:12:create_merkle_internal_value	504	static
+../Core/mbedTLS/library/lms.c:230:6:mbedtls_lms_public_init	16	static
+../Core/mbedTLS/library/lms.c:235:6:mbedtls_lms_public_free	16	static
+../Core/mbedTLS/library/lms.c:240:5:mbedtls_lms_import_public_key	32	static
+../Core/mbedTLS/library/lms.c:275:5:mbedtls_lms_export_public_key	24	static
+../Core/mbedTLS/library/lms.c:307:5:mbedtls_lms_verify	168	static

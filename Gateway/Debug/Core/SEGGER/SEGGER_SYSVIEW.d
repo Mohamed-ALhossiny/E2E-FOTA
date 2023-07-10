@@ -1,0 +1,15 @@
+Core/SEGGER/SEGGER_SYSVIEW.o: ../Core/SEGGER/SEGGER_SYSVIEW.c \
+ ../Core/SEGGER/SEGGER_SYSVIEW_Int.h ../Core/SEGGER/SEGGER_SYSVIEW.h \
+ ../Core/SEGGER/SEGGER.h ../Core/Inc/Global.h \
+ ../Core/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h \
+ ../Core/SEGGER/SEGGER_SYSVIEW_Conf.h ../Core/Inc/STD_TYPE.h \
+ ../Core/SEGGER/SEGGER_RTT_Conf.h ../Core/SEGGER/SEGGER_RTT.h
+../Core/SEGGER/SEGGER_SYSVIEW_Int.h:
+../Core/SEGGER/SEGGER_SYSVIEW.h:
+../Core/SEGGER/SEGGER.h:
+../Core/Inc/Global.h:
+../Core/SEGGER/SEGGER_SYSVIEW_ConfDefaults.h:
+../Core/SEGGER/SEGGER_SYSVIEW_Conf.h:
+../Core/Inc/STD_TYPE.h:
+../Core/SEGGER/SEGGER_RTT_Conf.h:
+../Core/SEGGER/SEGGER_RTT.h:

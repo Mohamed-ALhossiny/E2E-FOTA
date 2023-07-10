@@ -1,0 +1,11 @@
+../Core/mbedTLS/library/sha3.c:87:13:keccak_f1600	1168	static
+../Core/mbedTLS/library/sha3.c:170:6:mbedtls_sha3_init	16	static
+../Core/mbedTLS/library/sha3.c:175:6:mbedtls_sha3_free	16	static
+../Core/mbedTLS/library/sha3.c:184:6:mbedtls_sha3_clone	16	static
+../Core/mbedTLS/library/sha3.c:193:5:mbedtls_sha3_starts	24	static
+../Core/mbedTLS/library/sha3.c:219:5:mbedtls_sha3_update	96	static
+../Core/mbedTLS/library/sha3.c:259:5:mbedtls_sha3_finish	80	static
+../Core/mbedTLS/library/sha3.c:289:5:mbedtls_sha3	240	static
+../Core/mbedTLS/library/sha3.c:446:12:mbedtls_sha3_kat_test	112	static
+../Core/mbedTLS/library/sha3.c:498:12:mbedtls_sha3_long_kat_test	1304	static
+../Core/mbedTLS/library/sha3.c:575:5:mbedtls_sha3_self_test	24	static

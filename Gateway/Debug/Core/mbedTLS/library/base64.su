@@ -1,0 +1,3 @@
+../Core/mbedTLS/library/base64.c:39:5:mbedtls_base64_encode	56	static
+../Core/mbedTLS/library/base64.c:106:5:mbedtls_base64_decode	56	static
+../Core/mbedTLS/library/base64.c:232:5:mbedtls_base64_self_test	160	static

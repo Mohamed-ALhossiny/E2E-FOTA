@@ -1,0 +1,2 @@
+../Core/mbedTLS/library/platform.c:398:5:mbedtls_platform_setup	16	static
+../Core/mbedTLS/library/platform.c:408:6:mbedtls_platform_teardown	16	static

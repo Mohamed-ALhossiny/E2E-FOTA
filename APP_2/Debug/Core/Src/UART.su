@@ -1,0 +1,5 @@
+../Core/Src/UART.c:13:6:UART_INIT	24	static
+../Core/Src/UART.c:67:6:UART_Send	16	static
+../Core/Src/UART.c:74:6:UART_Send_String	24	static
+../Core/Src/UART.c:79:9:UART_Receive	24	static
+../Core/Src/UART.c:86:6:UART_Receive_String	24	static

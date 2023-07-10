@@ -1,0 +1,5 @@
+../Core/Src/RCC.c:11:6:RCC_Config	4	static
+../Core/Src/RCC.c:59:6:RCC_EnablePeripheral	16	static
+../Core/Src/RCC.c:73:6:RCC_DisablePeripheral	16	static
+../Core/Src/RCC.c:87:9:GetResetReason	4	static
+../Core/Src/RCC.c:101:6:ClearResetFlags	4	static

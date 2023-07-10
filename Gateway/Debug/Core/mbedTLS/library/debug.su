@@ -1,0 +1,12 @@
+../Core/mbedTLS/library/debug.c:38:6:mbedtls_debug_set_threshold	16	static
+../Core/mbedTLS/library/debug.c:46:20:debug_send_line	40	static
+../Core/mbedTLS/library/debug.c:65:6:mbedtls_debug_print_msg	560	static
+../Core/mbedTLS/library/debug.c:99:6:mbedtls_debug_print_ret	552	static
+../Core/mbedTLS/library/debug.c:127:6:mbedtls_debug_print_buf	584	static
+../Core/mbedTLS/library/debug.c:184:6:mbedtls_debug_print_ecp	552	static
+../Core/mbedTLS/library/debug.c:252:6:mbedtls_debug_print_mpi	576	static
+../Core/mbedTLS/library/debug.c:303:13:debug_print_pk	88	static
+../Core/mbedTLS/library/debug.c:345:13:debug_print_line_by_line	568	static
+../Core/mbedTLS/library/debug.c:369:6:mbedtls_debug_print_crt	1584	static
+../Core/mbedTLS/library/debug.c:401:13:mbedtls_debug_printf_ecdh_internal	40	static
+../Core/mbedTLS/library/debug.c:431:6:mbedtls_debug_printf_ecdh	32	static

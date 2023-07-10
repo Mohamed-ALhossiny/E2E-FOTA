@@ -1,0 +1,13 @@
+../Core/Src/Application.c:48:6:Authentication_TSK	248	static
+../Core/Src/Application.c:172:6:Update_TSK	680	static
+../Core/Src/Application.c:490:6:SendDownloadProgress_TSK	32	static
+../Core/Src/Application.c:525:6:Diagnostic_TSK	512	static
+../Core/Src/Application.c:609:6:Teset_TSK	8	static
+../Core/Src/Application.c:620:6:CAN_SendData	48	static
+../Core/Src/Application.c:641:6:CAN_ReceiveStr	32	static
+../Core/Src/Application.c:663:6:ParseVersion	32	static
+../Core/Src/Application.c:689:9:CompareVersions	24	static
+../Core/Src/Application.c:727:6:StrCat	32	static
+../Core/Src/Application.c:746:9:NumToSting	32	static
+../Core/Src/Application.c:763:10:StringToNum	24	static
+../Core/Src/Application.c:783:6:CAN1_RX0_IRQHandler	8	static,ignoring_inline_asm

@@ -1,0 +1,13 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/mbedtls/cipher.h:455:37:mbedtls_cipher_info_get_mode	16	static
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/mbedtls/cipher.h:476:22:mbedtls_cipher_info_get_key_bitlen	16	static
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/mbedtls/cipher.h:782:19:mbedtls_cipher_get_key_bitlen	16	static
+../Core/mbedTLS/library/ssl_misc.h:499:19:mbedtls_ssl_chk_buf_ptr	24	static
+../Core/mbedTLS/library/ssl_ticket.c:42:6:mbedtls_ssl_ticket_init	16	static
+../Core/mbedTLS/library/ssl_ticket.c:70:12:ssl_ticket_gen_key	64	static
+../Core/mbedTLS/library/ssl_ticket.c:120:12:ssl_ticket_update_keys	48	static
+../Core/mbedTLS/library/ssl_ticket.c:155:5:mbedtls_ssl_ticket_rotate	40	static
+../Core/mbedTLS/library/ssl_ticket.c:213:5:mbedtls_ssl_ticket_setup	40	static
+../Core/mbedTLS/library/ssl_ticket.c:298:5:mbedtls_ssl_ticket_write	96	static
+../Core/mbedTLS/library/ssl_ticket.c:399:32:ssl_ticket_select_key	24	static
+../Core/mbedTLS/library/ssl_ticket.c:417:5:mbedtls_ssl_ticket_parse	104	static
+../Core/mbedTLS/library/ssl_ticket.c:529:6:mbedtls_ssl_ticket_free	16	static

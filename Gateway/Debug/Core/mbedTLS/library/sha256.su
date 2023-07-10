@@ -1,0 +1,12 @@
+../Core/mbedTLS/library/sha256.c:188:6:mbedtls_sha256_init	16	static
+../Core/mbedTLS/library/sha256.c:193:6:mbedtls_sha256_free	16	static
+../Core/mbedTLS/library/sha256.c:202:6:mbedtls_sha256_clone	16	static
+../Core/mbedTLS/library/sha256.c:211:5:mbedtls_sha256_starts	16	static
+../Core/mbedTLS/library/sha256.c:455:5:mbedtls_internal_sha256_process	328	static
+../Core/mbedTLS/library/sha256.c:545:15:mbedtls_internal_sha256_process_many	32	static
+../Core/mbedTLS/library/sha256.c:608:5:mbedtls_sha256_update	40	static
+../Core/mbedTLS/library/sha256.c:663:5:mbedtls_sha256_finish	40	static
+../Core/mbedTLS/library/sha256.c:732:5:mbedtls_sha256	136	static
+../Core/mbedTLS/library/sha256.c:837:12:mbedtls_sha256_common_self_test	184	static
+../Core/mbedTLS/library/sha256.c:924:5:mbedtls_sha256_self_test	16	static
+../Core/mbedTLS/library/sha256.c:931:5:mbedtls_sha224_self_test	16	static

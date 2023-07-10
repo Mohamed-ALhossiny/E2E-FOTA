@@ -1,0 +1,7 @@
+../Core/Src/SCB.c:18:6:SCB_SetPriorityGrouping	24	static
+../Core/Src/SCB.c:36:10:SCB_GetPriorityGrouping	4	static
+../Core/Src/SCB.c:50:6:SCB_SetPriority	16	static
+../Core/Src/SCB.c:66:10:SCB_GetPriority	16	static
+../Core/Src/SCB.c:81:6:SCB_SetVector	24	static
+../Core/Src/SCB.c:97:10:SCB_GetVector	24	static
+../Core/Src/SCB.c:109:6:SCB_SystemReset	4	static,ignoring_inline_asm

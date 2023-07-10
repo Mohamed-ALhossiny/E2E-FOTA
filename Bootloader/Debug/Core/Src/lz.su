@@ -1,0 +1,6 @@
+../Core/Src/lz.c:102:21:_LZ_StringCompare	32	static
+../Core/Src/lz.c:118:12:_LZ_WriteVarSize	32	static
+../Core/Src/lz.c:153:12:_LZ_ReadVarSize	32	static
+../Core/Src/lz.c:191:5:LZ_Compress	1104	static
+../Core/Src/lz.c:329:5:LZ_CompressFast	1128	static
+../Core/Src/lz.c:489:5:LZ_Uncompress	48	static

@@ -1,0 +1,12 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/mbedtls/cipher.h:476:22:mbedtls_cipher_info_get_key_bitlen	16	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1819:12:ciphersuite_is_removed	16	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1826:12:mbedtls_ssl_list_ciphersuites	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1854:34:mbedtls_ssl_ciphersuite_from_string	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1874:34:mbedtls_ssl_ciphersuite_from_id	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1889:13:mbedtls_ssl_get_ciphersuite_name	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1902:5:mbedtls_ssl_get_ciphersuite_id	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1915:8:mbedtls_ssl_ciphersuite_get_cipher_key_bitlen	24	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:1941:19:mbedtls_ssl_get_ciphersuite_sig_pk_alg	16	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:2007:19:mbedtls_ssl_get_ciphersuite_sig_alg	16	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:2026:5:mbedtls_ssl_ciphersuite_uses_ec	16	static
+../Core/mbedTLS/library/ssl_ciphersuites.c:2044:5:mbedtls_ssl_ciphersuite_uses_psk	16	static

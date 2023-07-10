@@ -1,0 +1,15 @@
+../Core/mbedTLS/library/aria.c:60:24:aria_p1	24	static,ignoring_inline_asm
+../Core/mbedTLS/library/aria.c:127:20:aria_a	40	static
+../Core/mbedTLS/library/aria.c:159:20:aria_sl	24	static
+../Core/mbedTLS/library/aria.c:292:13:aria_fo_xor	64	static
+../Core/mbedTLS/library/aria.c:314:13:aria_fe_xor	64	static
+../Core/mbedTLS/library/aria.c:340:13:aria_rot128	40	static
+../Core/mbedTLS/library/aria.c:365:5:mbedtls_aria_setkey_enc	152	static
+../Core/mbedTLS/library/aria.c:428:5:mbedtls_aria_setkey_dec	56	static
+../Core/mbedTLS/library/aria.c:461:5:mbedtls_aria_crypt_ecb	72	static
+../Core/mbedTLS/library/aria.c:516:6:mbedtls_aria_init	16	static
+../Core/mbedTLS/library/aria.c:523:6:mbedtls_aria_free	16	static
+../Core/mbedTLS/library/aria.c:536:5:mbedtls_aria_crypt_cbc	48	static
+../Core/mbedTLS/library/aria.c:590:5:mbedtls_aria_crypt_cfb128	32	static
+../Core/mbedTLS/library/aria.c:652:5:mbedtls_aria_crypt_ctr	40	static
+../Core/mbedTLS/library/aria.c:851:5:mbedtls_aria_self_test	408	static

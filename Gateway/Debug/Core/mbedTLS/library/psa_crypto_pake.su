@@ -1,0 +1,10 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/psa/crypto_extra.h:2114:46:psa_pake_cipher_suite_init	32	static
+../Core/mbedTLS/library/psa_crypto_pake.c:145:21:mbedtls_ecjpake_to_psa_error	16	static
+../Core/mbedTLS/library/psa_crypto_pake.c:168:21:psa_pake_ecjpake_setup	32	static
+../Core/mbedTLS/library/psa_crypto_pake.c:195:14:mbedtls_psa_pake_setup	72	static
+../Core/mbedTLS/library/psa_crypto_pake.c:322:21:mbedtls_psa_pake_output_internal	48	static
+../Core/mbedTLS/library/psa_crypto_pake.c:431:14:mbedtls_psa_pake_output	40	static
+../Core/mbedTLS/library/psa_crypto_pake.c:443:21:mbedtls_psa_pake_input_internal	32	static
+../Core/mbedTLS/library/psa_crypto_pake.c:550:14:mbedtls_psa_pake_input	32	static
+../Core/mbedTLS/library/psa_crypto_pake.c:561:14:mbedtls_psa_pake_get_implicit_key	40	static
+../Core/mbedTLS/library/psa_crypto_pake.c:588:14:mbedtls_psa_pake_abort	16	static

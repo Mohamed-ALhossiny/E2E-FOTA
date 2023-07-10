@@ -1,0 +1,13 @@
+../Core/mbedTLS/library/cmac.c:66:12:cmac_multiply_by_u	40	static
+../Core/mbedTLS/library/cmac.c:113:12:cmac_generate_subkeys	64	static
+../Core/mbedTLS/library/cmac.c:155:13:cmac_pad	32	static
+../Core/mbedTLS/library/cmac.c:173:5:mbedtls_cipher_cmac_starts	40	static
+../Core/mbedTLS/library/cmac.c:215:5:mbedtls_cipher_cmac_update	64	static
+../Core/mbedTLS/library/cmac.c:281:5:mbedtls_cipher_cmac_finish	96	static
+../Core/mbedTLS/library/cmac.c:339:5:mbedtls_cipher_cmac_reset	24	static
+../Core/mbedTLS/library/cmac.c:359:5:mbedtls_cipher_cmac	96	static
+../Core/mbedTLS/library/cmac.c:399:5:mbedtls_aes_cmac_prf_128	80	static
+../Core/mbedTLS/library/cmac.c:741:12:cmac_test_subkeys	136	static
+../Core/mbedTLS/library/cmac.c:835:12:cmac_test_wth_cipher	64	static
+../Core/mbedTLS/library/cmac.c:902:12:test_aes128_cmac_prf	48	static
+../Core/mbedTLS/library/cmac.c:927:5:mbedtls_cmac_self_test	48	static

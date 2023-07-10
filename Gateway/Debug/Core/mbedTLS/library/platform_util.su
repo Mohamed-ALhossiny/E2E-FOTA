@@ -1,0 +1,9 @@
+../Core/mbedTLS/library/alignment.h:54:17:mbedtls_get_unaligned_uint16	24	static
+../Core/mbedTLS/library/alignment.h:68:13:mbedtls_put_unaligned_uint16	16	static
+../Core/mbedTLS/library/alignment.h:80:17:mbedtls_get_unaligned_uint32	24	static
+../Core/mbedTLS/library/alignment.h:94:13:mbedtls_put_unaligned_uint32	16	static
+../Core/mbedTLS/library/alignment.h:106:17:mbedtls_get_unaligned_uint64	24	static
+../Core/mbedTLS/library/alignment.h:120:13:mbedtls_put_unaligned_uint64	24	static
+../Core/mbedTLS/library/common.h:128:13:mbedtls_xor	40	static
+../Core/mbedTLS/library/platform_util.c:105:6:mbedtls_platform_zeroize	16	static
+../Core/mbedTLS/library/platform_util.c:160:12:mbedtls_platform_gmtime_r	24	static

@@ -1,0 +1,14 @@
+../Core/mbedTLS/library/gcm.c:54:6:mbedtls_gcm_init	16	static
+../Core/mbedTLS/library/gcm.c:67:12:gcm_gen_table	192	static
+../Core/mbedTLS/library/gcm.c:132:5:mbedtls_gcm_setkey	32	static
+../Core/mbedTLS/library/gcm.c:189:13:gcm_mult	128	static
+../Core/mbedTLS/library/gcm.c:259:5:mbedtls_gcm_starts	88	static
+../Core/mbedTLS/library/gcm.c:332:5:mbedtls_gcm_update_ad	80	static
+../Core/mbedTLS/library/gcm.c:382:13:gcm_incr	24	static
+../Core/mbedTLS/library/gcm.c:394:12:gcm_mask	40	static
+../Core/mbedTLS/library/gcm.c:420:5:mbedtls_gcm_update	144	static
+../Core/mbedTLS/library/gcm.c:506:5:mbedtls_gcm_finish	72	static
+../Core/mbedTLS/library/gcm.c:556:5:mbedtls_gcm_crypt_and_tag	40	static
+../Core/mbedTLS/library/gcm.c:591:5:mbedtls_gcm_auth_decrypt	88	static
+../Core/mbedTLS/library/gcm.c:626:6:mbedtls_gcm_free	16	static
+../Core/mbedTLS/library/gcm.c:869:5:mbedtls_gcm_self_test	584	static

@@ -1,0 +1,10 @@
+../Core/Src/FLASH.c:29:6:FLASH_Unlock	4	static
+../Core/Src/FLASH.c:40:6:FLASH_Lock	4	static
+../Core/Src/FLASH.c:50:6:FLASH_Erase_Sector	24	static
+../Core/Src/FLASH.c:92:6:FLASH_MassErase	16	static
+../Core/Src/FLASH.c:104:6:FLASH_Program	24	static
+../Core/Src/FLASH.c:144:13:FLASH_Program_Word	16	static
+../Core/Src/FLASH.c:158:13:FLASH_Program_HalfWord	16	static
+../Core/Src/FLASH.c:172:13:FLASH_Program_Byte	16	static
+../Core/Src/FLASH.c:186:6:FLASH_Set_ErrorCode	4	static
+../Core/Src/FLASH.c:242:10:FLASH_GetError	4	static

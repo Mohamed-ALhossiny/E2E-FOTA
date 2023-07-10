@@ -1,0 +1,4 @@
+../Core/Src/SysTick.c:22:6:SysTick_INIT	8	static
+../Core/Src/SysTick.c:33:6:SysTick_Delay	24	static
+../Core/Src/SysTick.c:44:6:SysTick_SuspendTick	4	static
+../Core/Src/SysTick.c:50:10:SysTick_GetTicks	4	static

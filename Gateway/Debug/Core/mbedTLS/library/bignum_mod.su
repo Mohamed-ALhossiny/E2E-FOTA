@@ -1,0 +1,15 @@
+../Core/mbedTLS/library/bignum_mod.c:37:5:mbedtls_mpi_mod_residue_setup	24	static
+../Core/mbedTLS/library/bignum_mod.c:52:6:mbedtls_mpi_mod_residue_release	16	static
+../Core/mbedTLS/library/bignum_mod.c:62:6:mbedtls_mpi_mod_modulus_init	16	static
+../Core/mbedTLS/library/bignum_mod.c:74:6:mbedtls_mpi_mod_modulus_free	16	static
+../Core/mbedTLS/library/bignum_mod.c:103:12:set_mont_const_square	56	static
+../Core/mbedTLS/library/bignum_mod.c:139:5:mbedtls_mpi_mod_modulus_setup	32	static
+../Core/mbedTLS/library/bignum_mod.c:174:5:mbedtls_mpi_mod_mul	40	static
+../Core/mbedTLS/library/bignum_mod.c:199:5:mbedtls_mpi_mod_sub	24	static
+../Core/mbedTLS/library/bignum_mod.c:213:12:mbedtls_mpi_mod_inv_mont	40	static
+../Core/mbedTLS/library/bignum_mod.c:226:12:mbedtls_mpi_mod_inv_non_mont	88	static
+../Core/mbedTLS/library/bignum_mod.c:261:5:mbedtls_mpi_mod_inv	40	static
+../Core/mbedTLS/library/bignum_mod.c:304:5:mbedtls_mpi_mod_add	24	static
+../Core/mbedTLS/library/bignum_mod.c:318:5:mbedtls_mpi_mod_random	32	static
+../Core/mbedTLS/library/bignum_mod.c:330:5:mbedtls_mpi_mod_read	40	static
+../Core/mbedTLS/library/bignum_mod.c:359:5:mbedtls_mpi_mod_write	48	static

@@ -1,0 +1,13 @@
+../Core/mbedTLS/library/lmots.c:78:6:mbedtls_lms_unsigned_int_to_network_bytes	32	static
+../Core/mbedTLS/library/lmots.c:88:14:mbedtls_lms_network_bytes_to_unsigned_int	24	static
+../Core/mbedTLS/library/lmots.c:112:23:lmots_checksum_calculate	24	static
+../Core/mbedTLS/library/lmots.c:148:12:create_digit_array_with_checksum	272	static
+../Core/mbedTLS/library/lmots.c:238:12:hash_digit_array	336	static
+../Core/mbedTLS/library/lmots.c:347:12:public_key_from_hashed_digit_array	272	static
+../Core/mbedTLS/library/lmots.c:398:5:mbedtls_lms_error_from_psa	16	static
+../Core/mbedTLS/library/lmots.c:417:6:mbedtls_lmots_public_init	16	static
+../Core/mbedTLS/library/lmots.c:422:6:mbedtls_lmots_public_free	16	static
+../Core/mbedTLS/library/lmots.c:427:5:mbedtls_lmots_import_public_key	24	static
+../Core/mbedTLS/library/lmots.c:459:5:mbedtls_lmots_export_public_key	24	static
+../Core/mbedTLS/library/lmots.c:493:5:mbedtls_lmots_calculate_public_key_candidate	1168	static
+../Core/mbedTLS/library/lmots.c:543:5:mbedtls_lmots_verify	80	static

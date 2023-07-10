@@ -1,0 +1,16 @@
+../Core/mbedTLS/library/hmac_drbg.c:45:6:mbedtls_hmac_drbg_init	16	static
+../Core/mbedTLS/library/hmac_drbg.c:55:5:mbedtls_hmac_drbg_update	104	static
+../Core/mbedTLS/library/hmac_drbg.c:109:5:mbedtls_hmac_drbg_seed_buf	40	static
+../Core/mbedTLS/library/hmac_drbg.c:146:12:hmac_drbg_reseed_core	432	static
+../Core/mbedTLS/library/hmac_drbg.c:222:5:mbedtls_hmac_drbg_reseed	24	static
+../Core/mbedTLS/library/hmac_drbg.c:234:5:mbedtls_hmac_drbg_seed	32	static
+../Core/mbedTLS/library/hmac_drbg.c:292:6:mbedtls_hmac_drbg_set_prediction_resistance	16	static
+../Core/mbedTLS/library/hmac_drbg.c:301:6:mbedtls_hmac_drbg_set_entropy_len	16	static
+../Core/mbedTLS/library/hmac_drbg.c:309:6:mbedtls_hmac_drbg_set_reseed_interval	16	static
+../Core/mbedTLS/library/hmac_drbg.c:318:5:mbedtls_hmac_drbg_random_with_add	48	static
+../Core/mbedTLS/library/hmac_drbg.c:394:5:mbedtls_hmac_drbg_random	40	static
+../Core/mbedTLS/library/hmac_drbg.c:420:6:mbedtls_hmac_drbg_free	16	static
+../Core/mbedTLS/library/hmac_drbg.c:438:5:mbedtls_hmac_drbg_write_seed_file	280	static
+../Core/mbedTLS/library/hmac_drbg.c:469:5:mbedtls_hmac_drbg_update_seed_file	288	static
+../Core/mbedTLS/library/hmac_drbg.c:561:12:hmac_drbg_self_test_entropy	32	static
+../Core/mbedTLS/library/hmac_drbg.c:580:5:mbedtls_hmac_drbg_self_test	208	static

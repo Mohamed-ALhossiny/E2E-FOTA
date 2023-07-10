@@ -1,0 +1,6 @@
+../Core/Src/GPIO.c:9:6:GPIO_Config_Port	16	static
+../Core/Src/GPIO.c:15:10:GPIO_Read_Port	16	static
+../Core/Src/GPIO.c:18:6:GPIO_Write_Port	16	static
+../Core/Src/GPIO.c:22:6:GPIO_Config_Pin	16	static
+../Core/Src/GPIO.c:34:9:GPIO_Read_Pin	16	static
+../Core/Src/GPIO.c:37:6:GPIO_Write_Pin	16	static

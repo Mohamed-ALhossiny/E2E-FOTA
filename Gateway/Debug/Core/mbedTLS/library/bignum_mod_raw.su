@@ -1,0 +1,16 @@
+../Core/mbedTLS/library/bignum_core.h:685:22:mbedtls_mpi_core_montmul_working_limbs	16	static
+../Core/mbedTLS/library/bignum_mod_raw.c:38:6:mbedtls_mpi_mod_raw_cond_assign	24	static
+../Core/mbedTLS/library/bignum_mod_raw.c:46:6:mbedtls_mpi_mod_raw_cond_swap	24	static
+../Core/mbedTLS/library/bignum_mod_raw.c:54:5:mbedtls_mpi_mod_raw_read	32	static
+../Core/mbedTLS/library/bignum_mod_raw.c:89:5:mbedtls_mpi_mod_raw_write	24	static
+../Core/mbedTLS/library/bignum_mod_raw.c:107:6:mbedtls_mpi_mod_raw_sub	32	static
+../Core/mbedTLS/library/bignum_mod_raw.c:130:6:mbedtls_mpi_mod_raw_mul	48	static
+../Core/mbedTLS/library/bignum_mod_raw.c:140:8:mbedtls_mpi_mod_raw_inv_prime_working_limbs	16	static
+../Core/mbedTLS/library/bignum_mod_raw.c:149:6:mbedtls_mpi_mod_raw_inv_prime	48	static
+../Core/mbedTLS/library/bignum_mod_raw.c:171:6:mbedtls_mpi_mod_raw_add	32	static
+../Core/mbedTLS/library/bignum_mod_raw.c:182:5:mbedtls_mpi_mod_raw_canonical_to_modulus_rep	16	static
+../Core/mbedTLS/library/bignum_mod_raw.c:196:5:mbedtls_mpi_mod_raw_modulus_to_canonical_rep	16	static
+../Core/mbedTLS/library/bignum_mod_raw.c:210:5:mbedtls_mpi_mod_raw_random	40	static
+../Core/mbedTLS/library/bignum_mod_raw.c:223:5:mbedtls_mpi_mod_raw_to_mont_rep	48	static
+../Core/mbedTLS/library/bignum_mod_raw.c:241:5:mbedtls_mpi_mod_raw_from_mont_rep	32	static
+../Core/mbedTLS/library/bignum_mod_raw.c:258:6:mbedtls_mpi_mod_raw_neg	32	static

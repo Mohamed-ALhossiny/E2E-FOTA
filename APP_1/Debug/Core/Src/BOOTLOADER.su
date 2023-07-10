@@ -1,0 +1,6 @@
+../Core/Src/BOOTLOADER.c:28:6:BootLoader	8	static
+../Core/Src/BOOTLOADER.c:43:13:ReceiveAndFlashUpdate	4128	static
+../Core/Src/BOOTLOADER.c:93:13:Program_Software	40	static
+../Core/Src/BOOTLOADER.c:132:13:Set_MSP	16	static,ignoring_inline_asm
+../Core/Src/BOOTLOADER.c:137:13:JumpToApplication	24	static
+../Core/Src/BOOTLOADER.c:149:13:System_DeInit	8	static

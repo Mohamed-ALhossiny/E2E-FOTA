@@ -1,0 +1,7 @@
+../Core/Src/FLASH.c:20:6:FLASH_Unlock	4	static
+../Core/Src/FLASH.c:31:6:FLASH_Lock	4	static
+../Core/Src/FLASH.c:39:6:FLASH_Erase	24	static
+../Core/Src/FLASH.c:69:13:FLASH_MassErase	4	static
+../Core/Src/FLASH.c:92:13:FLASH_PageErase	16	static
+../Core/Src/FLASH.c:112:6:FLASH_Program	48	static
+../Core/Src/FLASH.c:163:13:FLASH_Program_HalfWord	16	static

@@ -1,0 +1,2 @@
+../Core/SEGGER/SEGGER_SYSVIEW_Config_embOS.c:68:13:_cbSendSystemDesc	8	static
+../Core/SEGGER/SEGGER_SYSVIEW_Config_embOS.c:98:6:SEGGER_SYSVIEW_Conf	8	static

@@ -1,0 +1,12 @@
+../Core/mbedTLS/library/sha512.c:219:6:mbedtls_sha512_init	16	static
+../Core/mbedTLS/library/sha512.c:224:6:mbedtls_sha512_free	16	static
+../Core/mbedTLS/library/sha512.c:233:6:mbedtls_sha512_clone	16	static
+../Core/mbedTLS/library/sha512.c:242:5:mbedtls_sha512_starts	16	static
+../Core/mbedTLS/library/sha512.c:599:5:mbedtls_internal_sha512_process	2392	static
+../Core/mbedTLS/library/sha512.c:696:15:mbedtls_internal_sha512_process_many	32	static
+../Core/mbedTLS/library/sha512.c:758:5:mbedtls_sha512_update	72	static
+../Core/mbedTLS/library/sha512.c:812:5:mbedtls_sha512_finish	64	static
+../Core/mbedTLS/library/sha512.c:881:5:mbedtls_sha512	248	static
+../Core/mbedTLS/library/sha512.c:1006:12:mbedtls_sha512_common_self_test	320	static
+../Core/mbedTLS/library/sha512.c:1091:5:mbedtls_sha512_self_test	16	static
+../Core/mbedTLS/library/sha512.c:1098:5:mbedtls_sha384_self_test	16	static

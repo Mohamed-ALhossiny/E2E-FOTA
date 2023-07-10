@@ -1,0 +1,13 @@
+../Core/mbedTLS/library/common.h:94:30:mbedtls_buffer_offset	16	static
+../Core/mbedTLS/library/common.h:111:36:mbedtls_buffer_offset_const	16	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:34:30:mbedtls_cipher_info_from_psa	32	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:164:21:psa_cipher_setup	64	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:242:14:mbedtls_psa_cipher_encrypt_setup	32	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:253:14:mbedtls_psa_cipher_decrypt_setup	32	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:264:14:mbedtls_psa_cipher_set_iv	24	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:301:21:psa_cipher_update_ecb	48	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:381:14:mbedtls_psa_cipher_update	40	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:430:14:mbedtls_psa_cipher_finish	48	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:468:14:mbedtls_psa_cipher_abort	16	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:482:14:mbedtls_psa_cipher_encrypt	120	static
+../Core/mbedTLS/library/psa_crypto_cipher.c:540:14:mbedtls_psa_cipher_decrypt	120	static

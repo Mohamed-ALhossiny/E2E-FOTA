@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:91:21:_OS_GetHWTimerCycles	4	static
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:106:21:_OS_GetHWTimer_IntPending	4	static
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:124:6:SysTick_Handler	8	static,ignoring_inline_asm
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:140:6:OS_InitHW	40	static,ignoring_inline_asm
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:186:6:OS_Idle	4	static
+../Middlewares/Third_Party/SEGGER_RTOS_embOS/embOS/Source/RTOSInit.c:213:6:OS_COM_Send1	16	static

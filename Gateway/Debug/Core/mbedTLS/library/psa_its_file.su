@@ -1,0 +1,6 @@
+../Core/mbedTLS/library/psa_its_file.c:74:13:psa_its_fill_filename	40	static
+../Core/mbedTLS/library/psa_its_file.c:86:21:psa_its_read_file	72	static
+../Core/mbedTLS/library/psa_its_file.c:124:14:psa_its_get_info	32	static
+../Core/mbedTLS/library/psa_its_file.c:136:14:psa_its_get	48	static
+../Core/mbedTLS/library/psa_its_file.c:192:14:psa_its_set	88	static
+../Core/mbedTLS/library/psa_its_file.c:255:14:psa_its_remove	48	static

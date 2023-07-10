@@ -1,0 +1,8 @@
+../Core/mbedTLS/library/nist_kw.c:57:6:mbedtls_nist_kw_init	16	static
+../Core/mbedTLS/library/nist_kw.c:62:5:mbedtls_nist_kw_setkey	32	static
+../Core/mbedTLS/library/nist_kw.c:114:6:mbedtls_nist_kw_free	16	static
+../Core/mbedTLS/library/nist_kw.c:124:13:calc_a_xor_t	40	static
+../Core/mbedTLS/library/nist_kw.c:136:5:mbedtls_nist_kw_wrap	120	static
+../Core/mbedTLS/library/nist_kw.c:267:12:unwrap	112	static
+../Core/mbedTLS/library/nist_kw.c:330:5:mbedtls_nist_kw_unwrap	80	static
+../Core/mbedTLS/library/nist_kw.c:596:5:mbedtls_nist_kw_self_test	160	static

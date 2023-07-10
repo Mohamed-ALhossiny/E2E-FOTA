@@ -1,0 +1,7 @@
+../Core/Src/BOOTLOADER.c:31:6:BootLoader	8	static
+../Core/Src/BOOTLOADER.c:46:13:ReceiveAndFlashUpdate	104	static
+../Core/Src/BOOTLOADER.c:155:6:Program_Software	40	static
+../Core/Src/BOOTLOADER.c:196:13:Set_MSP	16	static,ignoring_inline_asm
+../Core/Src/BOOTLOADER.c:201:13:JumpToApplication	24	static
+../Core/Src/BOOTLOADER.c:213:13:System_DeInit	8	static
+../Core/Src/BOOTLOADER.c:233:6:USB_LP_CAN1_RX0_IRQHandler	8	static

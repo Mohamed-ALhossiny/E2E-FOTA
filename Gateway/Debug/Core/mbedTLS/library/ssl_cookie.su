@@ -1,0 +1,8 @@
+../Core/mbedTLS/library/ssl_misc.h:499:19:mbedtls_ssl_chk_buf_ptr	24	static
+../Core/mbedTLS/library/ssl_cookie.c:67:6:mbedtls_ssl_cookie_init	16	static
+../Core/mbedTLS/library/ssl_cookie.c:86:6:mbedtls_ssl_cookie_set_timeout	16	static
+../Core/mbedTLS/library/ssl_cookie.c:91:6:mbedtls_ssl_cookie_free	16	static
+../Core/mbedTLS/library/ssl_cookie.c:106:5:mbedtls_ssl_cookie_setup	72	static
+../Core/mbedTLS/library/ssl_cookie.c:165:12:ssl_cookie_hmac	56	static
+../Core/mbedTLS/library/ssl_cookie.c:191:5:mbedtls_ssl_cookie_write	48	static
+../Core/mbedTLS/library/ssl_cookie.c:280:5:mbedtls_ssl_cookie_check	80	static

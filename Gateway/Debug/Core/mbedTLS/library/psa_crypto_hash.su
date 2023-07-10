@@ -1,0 +1,6 @@
+../Core/mbedTLS/library/psa_crypto_hash.c:33:14:mbedtls_psa_hash_abort	16	static
+../Core/mbedTLS/library/psa_crypto_hash.c:84:14:mbedtls_psa_hash_setup	24	static
+../Core/mbedTLS/library/psa_crypto_hash.c:151:14:mbedtls_psa_hash_clone	16	static
+../Core/mbedTLS/library/psa_crypto_hash.c:210:14:mbedtls_psa_hash_update	32	static
+../Core/mbedTLS/library/psa_crypto_hash.c:269:14:mbedtls_psa_hash_finish	40	static
+../Core/mbedTLS/library/psa_crypto_hash.c:343:14:mbedtls_psa_hash_compute	256	static

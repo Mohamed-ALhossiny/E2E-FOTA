@@ -1,0 +1,6 @@
+C:/Users/moham/STM32CubeIDE/workspace_1.10.1/Gateway/Core/mbedTLS/include/psa/crypto_struct.h:386:30:psa_get_key_type	16	static
+../Core/mbedTLS/library/psa_crypto_ffdh.c:34:21:mbedtls_psa_ffdh_set_prime_generator	48	static
+../Core/mbedTLS/library/psa_crypto_ffdh.c:126:14:mbedtls_psa_export_ffdh_public_key	104	static
+../Core/mbedTLS/library/psa_crypto_ffdh.c:179:14:mbedtls_psa_ffdh_generate_key	64	static
+../Core/mbedTLS/library/psa_crypto_ffdh.c:213:14:mbedtls_psa_ffdh_import_key	24	static
+../Core/mbedTLS/library/psa_crypto_ffdh.c:235:14:mbedtls_psa_key_agreement_ffdh	112	static

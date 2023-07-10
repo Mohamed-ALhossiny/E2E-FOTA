@@ -1,0 +1,17 @@
+../Core/Src/fastlz.c:72:13:fastlz_memmove	24	static
+../Core/Src/fastlz.c:94:13:fastlz_memcpy	24	static
+../Core/Src/fastlz.c:118:17:flz_readu32	24	static
+../Core/Src/fastlz.c:123:17:flz_cmp	32	static
+../Core/Src/fastlz.c:142:17:flz_hash	32	static
+../Core/Src/fastlz.c:148:13:flz_smallcopy	24	static
+../Core/Src/fastlz.c:165:13:flz_maxcopy	16	static
+../Core/Src/fastlz.c:182:17:flz_literals	24	static
+../Core/Src/fastlz.c:198:17:flz1_match	24	static
+../Core/Src/fastlz.c:221:5:fastlz1_compress	32848	static
+../Core/Src/fastlz.c:283:5:fastlz1_decompress	64	static
+../Core/Src/fastlz.c:322:17:flz2_match	24	static
+../Core/Src/fastlz.c:355:5:fastlz2_compress	32848	static
+../Core/Src/fastlz.c:429:5:fastlz2_decompress	64	static
+../Core/Src/fastlz.c:482:5:fastlz_compress	24	static
+../Core/Src/fastlz.c:490:5:fastlz_decompress	32	static
+../Core/Src/fastlz.c:501:5:fastlz_compress_level	24	static
